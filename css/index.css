@@ -1,0 +1,17 @@
+.day{
+	color: black;
+	background-color: lightgray;
+}
+.night{
+	color: white;
+	background-color: black;
+}
+
+.red{
+	color: white;
+	background-color: #800000;
+}
+.blue{
+	color: white;
+	background-color: #006ca9;
+}
